@@ -106,9 +106,9 @@ const STEPS = [
 ];
 
 const ROADMAP = [
-  { phase: "Phase 1", status: "Current", points: ["Branding", "Website launch", "Community setup"] },
-  { phase: "Phase 2", status: "Next", points: ["Token launch", "Liquidity deployment", "Market presence"] },
-  { phase: "Phase 3", status: "Planned", points: ["MVP app concept", "Personal dashboard", "Health profile architecture"] },
+  { phase: "Phase 1", status: "Completed", points: ["Branding", "Website launch", "Community setup"] },
+  { phase: "Phase 2", status: "Current", points: ["Token launch", "Liquidity deployment", "Market presence"] },
+  { phase: "Phase 3", status: "Next", points: ["MVP app concept", "Personal dashboard", "Health profile architecture"] },
   { phase: "Phase 4", status: "Planned", points: ["Wearable integration", "Step-based rewards", "Subscription model"] },
   { phase: "Phase 5", status: "Future", points: ["Full app release", "Record portability", "International expansion"] },
 ];
